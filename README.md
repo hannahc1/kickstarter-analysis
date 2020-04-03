@@ -1,4 +1,5 @@
 # kickstarter-analysis
+### Challenge
 Analysis on Kickstarter data to understand factors for a successful play campaign.
 ---
 ***Three conclusions***
@@ -16,3 +17,4 @@ Analysis on Kickstarter data to understand factors for a successful play campaig
 1. I would add a table to show the duration of the campaign and its relationship to outcome as below.  28 days is the one of the most successful time frames among all play campaigns.
 ![](https://github.com/hannahc1/kickstarter-analysis/blob/master/Top%2010%20Durations.png)
 2. Louise’s campaign needed just 10 backers with an average donation of $250 to meet close to the target.  Additional graphs demonstrating how average donation size has any impact on the outcome might also explain Fever’s success.
+### Challenge
