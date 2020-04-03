@@ -6,6 +6,7 @@ Analysis on Kickstarter data to understand factors for a successful play campaig
 ![](https://github.com/hannahc1/kickstarter-analysis/blob/master/Outcomes%20Based%20on%20Goals-Plays.png)
 2. Fever campaign at $2,885 seemed to have had the right size to achieve the positive outcome.
 3. Fever was launched in June, one of the two most successful campaign months for theater.
+![](https://github.com/hannahc1/kickstarter-analysis/blob/master/Pivot%20Chart%20by%20Launch%20Date%20-%20Theaters.png)
 ---
 ***Limitations***
 1. I would limit this analysis to US plays only as play production is a location specific cause, and the funding size in different currencies might not fall into the same goal ranges.
