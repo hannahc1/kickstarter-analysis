@@ -3,7 +3,7 @@ Analysis on Kickstarter data to understand factors for a successful play campaig
 ---
 ***Three conclusions***
 1. The $1,000 to $4,900 goal range among the play campaigns has a 73% of success rate.
-
+![](https://github.com/hannahc1/kickstarter-analysis/blob/master/Outcomes%20Based%20on%20Goals-Plays.png)
 2. Fever campaign at $2,885 seemed to have had the right size to achieve the positive outcome.
 3. Fever was launched in June, one of the two most successful campaign months for theater.
 ---
